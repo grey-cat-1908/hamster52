@@ -23,7 +23,7 @@
 
 ### Программирование
 
-Вы можете загрузить [скетч](https://github.com/grey-cat-1908/hamster52/blob/master/hamster52.ino) используя Arduino IDE. 
+Скетч вы можете найти [здесь](https://github.com/grey-cat-1908/hamster52/blob/master/hamster52.ino). 
 
 ### Результат
 
